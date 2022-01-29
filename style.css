@@ -1,5 +1,5 @@
-            body {
-                background-image: linear-gradient(to right, red, blue);
+             body {
+                background-image: radial-gradient( red, blue);
             }
             
             h1 {
@@ -16,7 +16,7 @@
             
             table {
                 border: 5px solid black;
-                margin: 5% auto 5% auto;
+                margin: 5vh auto 5vh auto;
                 border-radius: 10px;
                 background-image: linear-gradient(to left, wheat, blueviolet);
             }
@@ -24,7 +24,7 @@
             th {
                 border: 3px solid black;
                 padding: 20px;
-                font-size: 40px;
+                font-size: 30px;
             }
             
             tr,
